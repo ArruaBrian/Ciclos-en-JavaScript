@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+}
+
+.fondo {
+  background-image: url(../img/menta.jpg);
+  height: 100%;
+  width: 100%;
+}/*# sourceMappingURL=main.css.map */
